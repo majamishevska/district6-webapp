@@ -41,7 +41,7 @@ While the City of Boston provides citywide resources, this project addresses the
   - Newsletter signup and distribution tools
 
 - **Accessibility & Language Support**
-   Full bilingual functionality (English and Spanish), including search, filters, resource listings, and event details
+  - Full bilingual functionality (English and Spanish), including search, filters, resource listings, and event details
   - Responsive design across devices
 
 ---
